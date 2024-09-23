@@ -1,8 +1,8 @@
-#Project Overview: DirectX 9 Hook for Texture Manipulation and Z-Buffer Management
+# Project Overview: DirectX 9 Hook for Texture Manipulation and Z-Buffer Management
 
-##Description: This project is a research-oriented exploration of DirectX 9 hooking techniques with a focus on manipulating textures and disabling the Z-buffer for specific in-game objects. The primary goal of this project is to study the effects of texture manipulation and Z-buffer management in real-time rendering pipelines by injecting custom rendering code into DirectX-based applications.
+## Description: This project is a research-oriented exploration of DirectX 9 hooking techniques with a focus on manipulating textures and disabling the Z-buffer for specific in-game objects. The primary goal of this project is to study the effects of texture manipulation and Z-buffer management in real-time rendering pipelines by injecting custom rendering code into DirectX-based applications.
 
-###Key functionalities of the project include:
+### Key functionalities of the project include:
 
 DirectX 9 Hooking: Intercept DirectX 9 functions to manipulate game graphics in real-time.
 
@@ -12,18 +12,18 @@ Z-buffer Control: Disable or adjust Z-buffer settings for certain objects, allow
 
 Shader Integration: Optional integration of custom shaders to explore further rendering effects.
 
-###Educational Focus: 
+### Educational Focus: 
 The project is intended as a learning and research tool for those interested in understanding game hacking, rendering pipeline manipulation, and DirectX internals.
 
 
-###Technologies Used:
+### Technologies Used:
 C++
 DirectX 9 SDK
 Hooking Techniques (DLL Injection, IAT/EAT modifications)
 Reverse Engineering Tools (x64dbg, Cheat Engine)
 
 
-###How to Use:
+### How to Use:
 
 Clone the repository.
 
@@ -34,7 +34,7 @@ Inject the DLL into a target DirectX 9 application.
 Customize the hook logic for texture manipulation and Z-buffer control as required.
 
 
-Disclaimer:
+## Disclaimer:
 This project is intended solely for educational and research purposes. It should not be used for any malicious activity or to violate any terms of service of third-party applications or games. 
 
 The author of this project does not endorse or support illegal activities, including unauthorized modification of software. Any misuse of the code provided is solely the responsibility of the user.
