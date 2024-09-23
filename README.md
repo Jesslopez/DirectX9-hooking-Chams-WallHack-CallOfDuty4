@@ -5,10 +5,15 @@ Description: This project is a research-oriented exploration of DirectX 9 hookin
 Key functionalities of the project include:
 
 DirectX 9 Hooking: Intercept DirectX 9 functions to manipulate game graphics in real-time.
+
 Texture Manipulation: Identify and replace textures for specific game objects using hooked EndScene and other rendering calls.
+
 Z-buffer Control: Disable or adjust Z-buffer settings for certain objects, allowing custom rendering logic to bypass depth testing.
+
 Shader Integration: Optional integration of custom shaders to explore further rendering effects.
+
 Educational Focus: The project is intended as a learning and research tool for those interested in understanding game hacking, rendering pipeline manipulation, and DirectX internals.
+
 
 Technologies Used:
 C++
