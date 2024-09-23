@@ -1,6 +1,4 @@
-Project Overview:
-
-Project Title: DirectX 9 Hook for Texture Manipulation and Z-Buffer Management
+Project Overview: DirectX 9 Hook for Texture Manipulation and Z-Buffer Management
 
 Description: This project is a research-oriented exploration of DirectX 9 hooking techniques with a focus on manipulating textures and disabling the Z-buffer for specific in-game objects. The primary goal of this project is to study the effects of texture manipulation and Z-buffer management in real-time rendering pipelines by injecting custom rendering code into DirectX-based applications.
 
