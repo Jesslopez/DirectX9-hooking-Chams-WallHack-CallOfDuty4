@@ -1,8 +1,8 @@
-Project Overview: DirectX 9 Hook for Texture Manipulation and Z-Buffer Management
+#Project Overview: DirectX 9 Hook for Texture Manipulation and Z-Buffer Management
 
-Description: This project is a research-oriented exploration of DirectX 9 hooking techniques with a focus on manipulating textures and disabling the Z-buffer for specific in-game objects. The primary goal of this project is to study the effects of texture manipulation and Z-buffer management in real-time rendering pipelines by injecting custom rendering code into DirectX-based applications.
+##Description: This project is a research-oriented exploration of DirectX 9 hooking techniques with a focus on manipulating textures and disabling the Z-buffer for specific in-game objects. The primary goal of this project is to study the effects of texture manipulation and Z-buffer management in real-time rendering pipelines by injecting custom rendering code into DirectX-based applications.
 
-Key functionalities of the project include:
+###Key functionalities of the project include:
 
 DirectX 9 Hooking: Intercept DirectX 9 functions to manipulate game graphics in real-time.
 
@@ -12,17 +12,19 @@ Z-buffer Control: Disable or adjust Z-buffer settings for certain objects, allow
 
 Shader Integration: Optional integration of custom shaders to explore further rendering effects.
 
-Educational Focus: The project is intended as a learning and research tool for those interested in understanding game hacking, rendering pipeline manipulation, and DirectX internals.
+###Educational Focus: 
+The project is intended as a learning and research tool for those interested in understanding game hacking, rendering pipeline manipulation, and DirectX internals.
 
 
-Technologies Used:
+###Technologies Used:
 C++
 DirectX 9 SDK
 Hooking Techniques (DLL Injection, IAT/EAT modifications)
 Reverse Engineering Tools (x64dbg, Cheat Engine)
 
 
-How to Use:
+###How to Use:
+
 Clone the repository.
 
 Compile the project using MVSC with appropriate DirectX 9 SDK installed.
