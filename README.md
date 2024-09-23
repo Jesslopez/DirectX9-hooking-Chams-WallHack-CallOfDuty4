@@ -21,14 +21,21 @@ DirectX 9 SDK
 Hooking Techniques (DLL Injection, IAT/EAT modifications)
 Reverse Engineering Tools (x64dbg, Cheat Engine)
 
+
 How to Use:
 Clone the repository.
+
 Compile the project using MVSC with appropriate DirectX 9 SDK installed.
+
 Inject the DLL into a target DirectX 9 application.
+
 Customize the hook logic for texture manipulation and Z-buffer control as required.
 
+
 Disclaimer:
-This project is intended solely for educational and research purposes. It should not be used for any malicious activity or to violate any terms of service of third-party applications or games. The author of this project does not endorse or support illegal activities, including unauthorized modification of software. Any misuse of the code provided is solely the responsibility of the user.
+This project is intended solely for educational and research purposes. It should not be used for any malicious activity or to violate any terms of service of third-party applications or games. 
+
+The author of this project does not endorse or support illegal activities, including unauthorized modification of software. Any misuse of the code provided is solely the responsibility of the user.
 
 Results:
 ![pic1](https://github.com/user-attachments/assets/0395e883-f691-402b-8f71-6e96de1b3058)
